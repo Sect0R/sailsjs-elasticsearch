@@ -104,7 +104,7 @@ module.exports = {
         });
 
 
-        Promise.all(createIndexesPromises).then(results => {
+        Promise.all(createIndexesPromises).then(() => {
             res.send(200);
         }).catch(error => {
             res.negotiate(error);
@@ -145,7 +145,7 @@ module.exports = {
 
         // find index
         let index = indexes.filter(index => {
-            return index.elasticIndex == req.param('index');
+            return index.elasticIndex === req.param('index');
         });
 
         // if index not found
