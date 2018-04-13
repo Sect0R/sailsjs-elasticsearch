@@ -1,0 +1,12 @@
+{
+	"name": "sailsjs-elasticsearch",
+	"homepage": "https://github.com/Sect0R/sailsjs-elasticsearch",
+	"bugs": "https://github.com/Sect0R/sailsjs-elasticsearch/issues",
+	"version": "0.1.0",
+	"description": "Using elasticsearch in sailsJS framework. Index/Reindex, Search",
+	"repository": "github.com/Sect0R/sailsjs-elasticsearch",
+	"author": "Odinets Ruslan aka Sect0R",
+	"dependencies": {
+		"sails-elastic": "~0.12.0",
+	}
+}
