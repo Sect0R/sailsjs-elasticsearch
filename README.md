@@ -1,7 +1,7 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Sect0R/sailsjs-elasticsearch) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Sect0R/sailsjs-elasticsearch/compare?expand=1)
 
 # sailsjs-elasticsearch  
 Using elasticsearch in sailsJS framework. Index/Reindex, Search  
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Sect0R/sailsjs-elasticsearch) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Sect0R/sailsjs-elasticsearch/compare?expand=1)
 
 ## Documentation
   
